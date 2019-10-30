@@ -1,0 +1,194 @@
+/* base classes*/
+.display-inline-block{
+	display: inline-block;
+}
+.container{
+	width: 1170px;	
+	margin: 80px auto;
+}
+/* base classes*/
+
+
+/*header*/
+.active {
+	color: red;
+}	
+.logo{
+
+	width: 100px;	
+	margin-right: 50px;
+	vertical-align: middle;
+}
+.nav{
+	vertical-align: middle;
+}
+
+.nav-li{
+	
+	margin-right: 21px;
+}
+.nav-a{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	font-size: 22px;
+}
+
+/* end header*/
+
+/* featured-section*/
+
+.article-box-main{
+	width: 570px;
+	background-color:#F2F2F2;
+	padding: 15px 18px 40px 15px; 
+	
+}
+.article-box-margin{
+	margin-right: 25px;
+}
+
+.article-image{
+
+	height: 130px;
+	vertical-align: top;
+	margin-right: 30px;
+}
+.article-text{
+	width: 334px;		
+	font-size: 20px;
+
+	
+}
+.article-title{
+	margin-bottom: 18px;	
+	font-size: 22px;
+	color: #3D58A6; 
+	text-transform: uppercase;
+
+}
+.article-wraper{
+	margin-top: 35px;
+	font-family: 'Roboto', sans-serif;
+}
+.wraper-title{
+	text-transform: uppercase;
+}
+.wraper-title a{
+	text-transform: lowercase;
+}
+
+/* END featured-section*/
+
+
+
+
+/*footer*/
+.footer-box{
+	margin: 65px 0 40px 2%;
+}
+.footer-image{
+	height: 30px;
+	display: inline-block;
+}
+.devider{
+	display: inline-block;
+	height: 30px;
+	background: #3D58A6; 
+	width: 2px;
+	margin: 0 30px;
+
+}
+/*end footer*/
+
+
+/*contact page */
+
+.contact-section{
+
+	background-color: #E6E6E6;
+	padding: 40px 0px 45px 0px;
+	margin-top: 35px;
+}
+
+.contact-title{
+	font-size: 20px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	color: #3D58A6;
+}
+
+.contact-span{
+
+	font-family: 'BPG Ingiri Arial', sans-serif;
+
+	font-size:16px;
+	color: #999999;
+}
+.right-block{
+	vertical-align: top;
+	width: 875px;
+	height: 466px;
+}
+.right-block iframe{
+
+	width: 100%;
+	height: 100%;
+
+	
+}
+
+
+.left-block{
+	vertical-align: top;
+	margin-right: 35px;
+}
+
+/*END contact page */
+
+
+/* news page */
+
+.date{
+	font-size: 22px;
+	color: blue;
+	margin-top: 8px;
+	font-family: "BPG Nino Mtavruli Bold";
+
+}
+.image{
+	display: inline-block;
+	margin-right: 35px;
+	vertical-align: top;
+
+}
+
+.article-p{
+	display: inline-block;
+	width: 900px;
+	font-size: 16px;
+	font-family: 'BPG Ingiri Arial', sans-serif;
+
+}
+.article-box{
+	margin-top: 70px;
+}
+
+
+.blue-box{
+	background: #3D58A6;
+	font-size: 32px;
+	display: inline-block;
+	padding: 10px;
+	margin-top:40px;
+	color: white;
+}
+body{
+	padding: 30px 0 0 30px;
+}
+
+.news-title{
+	font-size:20px;
+		font-family: "BPG Nino Mtavruli Bold";
+    margin-top: 25px;
+
+}
+
+/* End news page */
